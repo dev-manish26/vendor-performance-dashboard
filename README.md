@@ -78,7 +78,7 @@ Comprehensive summary of key metrics:
 - Underperforming Vendors
 - Scatter plot of brand performance
 
-![Dashboard](outputs/dashboard_screenshot.png)
+![Dashboard](outputs/powerBI-dashboard.png)
 
 ---
 
@@ -86,7 +86,7 @@ Comprehensive summary of key metrics:
 
 A visual representation of relationships between pricing, volume, profit, freight, and taxes.
 
-![Heatmap](visuals/eda_heatmap.png)
+![Heatmap](visuals/heatmap.png)
 
 ---
 
@@ -113,11 +113,11 @@ A visual representation of relationships between pricing, volume, profit, freigh
 
 ## 🙋 About Me
 
-I’m [Manish Meshram](https://www.linkedin.com/in/your-profile-link), a data enthusiast passionate about solving real-world business problems using Python and BI tools.
+I’m [Manish Meshram](https://www.linkedin.com/in/manishmeshram26/), a data enthusiast passionate about solving real-world business problems using Python and BI tools.
 
 📫 Let’s connect:
-- [LinkedIn](https://linkedin.com/in/your-profile-link)
-- 📧 your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/manishmeshram26/)
+- 📧 webmanish2603@gmail.com
 
 If you found this project helpful or interesting, a ⭐️ would mean a lot!
 
