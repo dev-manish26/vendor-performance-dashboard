@@ -32,6 +32,7 @@ To analyze vendor-level performance based on sales, purchases, and freight costs
 vendor-performance-analytics/
 │
 ├── data/                  # Sample/mock CSVs (no real data)
+├── Jupter-notebook        # jupter nootbook (EDA code)
 ├── scripts/               # Python scripts for data ingestion & transformation
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
